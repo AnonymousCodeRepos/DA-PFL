@@ -1,6 +1,6 @@
 # DA-PFL: Dynamic Affinity Aggregation for Personalized Federated Learning
 
-Authors: Xu Yang, Jiyuan Feng, Songyue Guo, Yongxin Tong, Binxing Fang, and Qing Liao
+Authors: 
 
 
 
